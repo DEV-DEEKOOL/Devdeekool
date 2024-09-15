@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Devdeekool
 - 👀 I’m interested in entry level web development projects
-- 🌱 I’m currently learning front-end engineering
+- 🌱 I’m a front-end engineering
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me kunlezboy@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Knowledge is power
 
 <!---
 Devdeekool/Devdeekool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
